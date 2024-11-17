@@ -247,18 +247,25 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2018-2019**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   X Standard at Victory Higher Secondary School. (93%)
 
-          * react certificate somewhere
 
-          **2011**
+          **2020-2021**
 
-          * my highschool
+
+          *   XII Standard at Victory Higher Secondary School. (89%)
+
+
+          **2021-2025**
+
+
+          *   B.E Computer Science and Engineering at St.Joseph's College of
+          Engineering and Technology(72%).
+
         styles:
           self:
             textAlign: left
