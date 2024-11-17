@@ -229,7 +229,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      hariharandurairaju\@gmail.com
+      <hariharandurairaju@gmail.com>
   - type: DividerSection
     styles:
       self:
