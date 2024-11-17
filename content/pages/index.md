@@ -18,7 +18,11 @@ sections:
       LEARNER and aLSO CAN BE A GREAT GRIEND TO YOU.
     subtitle: >-
       This is Hariharan Durairaju. A final-year student who is an expert in data
-      analysis. I'm good at Python, Data Visua
+      analysis. I'm good at Python, Data Visualization, and talking with data.
+      Even though Technical skills are important, my personal skills can be
+      great. To Describe myself in that area, I'm the greatest Learner from my
+      pov :), Good advisor, stable minded person. Feel free to explore my
+      projects and evaluate my worthiness.
     styles:
       self:
         height: auto
