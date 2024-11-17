@@ -16,7 +16,9 @@ sections:
     title: >-
       I’m a dATA ANALYST, WANNABE DATA SCIENTIST, QUITE A GOOD OBSERVER AND
       LEARNER and aLSO CAN BE A GREAT GRIEND TO YOU.
-    subtitle: This is Hariharan Durairaju. A final-year
+    subtitle: >-
+      This is Hariharan Durairaju. A final-year student who is an expert in data
+      analysis. I'm good at Python, Data Visua
     styles:
       self:
         height: auto
