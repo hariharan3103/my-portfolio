@@ -13,11 +13,27 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey, You heard a bit about me in my home page. Right?
+
+
+      ## If not,
+
+
+      ##    This is Hariharan Durairaju. A final-year student who is an expert
+      in data analysis. I'm good at Python, Data Visualization, and talking with
+      data. Even though Technical skills are important, my personal skills can
+      be great. To Describe myself in that area, I'm the greatest Learner from
+      my pov :), Good advisor, stable minded person. 
+
+
+
+             Other Than my Domain, I done a few IoT Projects During a One month Internship. In my Free time, I read lot of books, Watch Movies. I'm a sportive and Active person. I love to play all the Games. I'm quite good at volleyball and cricket. And you know my dream is to become a Sports analyst for a team in any sports and contribute to them data-driven ideas to them and give them a significant advantage (Sounds like a good dream, isn't it). Don't think I'm only want to be in sports. I'm always challenge myself where I heard I can't stand. 
+
+
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
