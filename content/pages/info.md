@@ -13,11 +13,27 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey, You heard a bit about me in my home page. Right?
+
+
+      ## If not,
+
+
+      ##    This is Hariharan Durairaju. A final-year student who is an expert
+      in data analysis. I'm good at Python, Data Visualization, and talking with
+      data. Even though Technical skills are important, my personal skills can
+      be great. To Describe myself in that area, I'm the greatest Learner from
+      my pov :), Good advisor, stable minded person. 
+
+
+
+             Other Than my Domain, I done a few IoT Projects During a One month Internship. In my Free time, I read lot of books, Watch Movies. I'm a sportive and Active person. I love to play all the Games. I'm quite good at volleyball and cricket. And you know my dream is to become a Sports analyst for a team in any sports and contribute to them data-driven ideas to them and give them a significant advantage (Sounds like a good dream, isn't it). Don't think I'm only want to be in sports. I'm always challenge myself where I heard I can't stand. 
+
+
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -46,65 +62,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -207,21 +164,22 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
       - type: Label
-        label: React
+        label: Microsoft Excel
       - type: Label
-        label: Microsoft Office
+        label: SQL
       - type: Label
-        label: Next.js
+        label: Spreadsheet Analysis
       - type: Label
-        label: Netlify
+        label: Data Visualization
       - type: Label
-        label: Pancakes
+        label: Google Forms
       - type: Label
-        label: C++
+        label: Data Driven mindset
       - type: Label
-        label: Swift
+        label: '"Ready for change" Person'
+        url: ''
   - type: DividerSection
     styles:
       self:
