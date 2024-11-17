@@ -215,7 +215,7 @@ sections:
       - type: Label
         label: Spreadsheet Analysis
       - type: Label
-        label: Netlify
+        label: Data Visualization
       - type: Label
         label: Pancakes
       - type: Label
