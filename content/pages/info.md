@@ -246,17 +246,6 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: ''
-        text: ''
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
           **2015-2018**
