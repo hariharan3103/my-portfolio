@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: Microsoft Excel
       - type: Label
-        label: Microsoft Office
+        label: SQL
       - type: Label
         label: Next.js
       - type: Label
