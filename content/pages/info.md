@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: Data Visualization
       - type: Label
-        label: Pancakes
+        label: Volleyball
       - type: Label
         label: Swift
   - type: DividerSection
