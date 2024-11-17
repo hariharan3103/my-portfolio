@@ -26,9 +26,6 @@ sections:
       be great. To Describe myself in that area, I'm the greatest Learner from
       my pov :), Good advisor, stable minded person.
 
-
-      ##
-
     media:
       type: ImageBlock
       url: /images/about.jpg
