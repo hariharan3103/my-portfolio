@@ -219,7 +219,7 @@ sections:
       - type: Label
         label: Google Forms
       - type: Label
-        label: Swift
+        label: Data Driven mindset
   - type: DividerSection
     styles:
       self:
