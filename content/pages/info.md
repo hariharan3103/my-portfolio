@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Next.js
+        label: Spreadsheet Analysis
       - type: Label
         label: Netlify
       - type: Label
