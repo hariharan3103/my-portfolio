@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a dATA ANALYST, WANNABE DATA SCIENTIST, QUITE A GOOD OBSERVER AND
-      LEARNER and aLSO CAN BE A GREAT GRIEND TO YOU.
+      I’m a DATA ANALYST, WANNABE DATA SCIENTIST, QUITE A GOOD OBSERVER AND
+      LEARNER, and ALSO CAN BE A GREAT FRIEND TO YOU.
     subtitle: >-
       This is Hariharan Durairaju. A final-year student who is an expert in data
       analysis. I'm good at Python, Data Visualization, and talking with data.
