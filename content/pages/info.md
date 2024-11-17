@@ -220,6 +220,9 @@ sections:
         label: Google Forms
       - type: Label
         label: Data Driven mindset
+      - type: Label
+        label: '"Ready for change" Person'
+        url: ''
   - type: DividerSection
     styles:
       self:
