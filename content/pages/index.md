@@ -14,12 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a dATA ANALYST, WANNABE DATA SCIENTIST, QUITE A GOOD OBSERVER AND
+      LEARNER and aLSO CAN BE A GREAT GRIEND TO YOU.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is Hariharan Durairaju. A final-year student who is an expert in data
+      analysis. I'm good at Python, Data Visualization, and talking with data.
+      Even though Technical skills are important, my personal skills can be
+      great. To Describe myself in that area, I'm the greatest Learner from my
+      pov :), Good advisor, stable minded person. Feel free to explore my
+      projects and evaluate my worthiness.
     styles:
       self:
         height: auto
@@ -84,7 +87,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
