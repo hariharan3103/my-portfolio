@@ -19,8 +19,8 @@ media:
 ---
 
 
-
-This question sparked the beginning of my first-ever data science project—analyzing a YouTube channel called **A2D** using Python and YouTube’s API.
+Every great journey starts with a single step, and mine began with a curious question: What insights can we unlock from YouTube data?
+This question sparked the beginning of my first-ever data science project—analyzing a YouTube channel called A2D using Python and YouTube’s API.
 
 The Idea 💡  
 As someone eager to dive into the world of data, I wanted a hands-on project that combined creativity and analytics. YouTube felt perfect—it's a treasure trove of data just waiting to be explored. After binge-watching content from **Thu Vu Analytics**, I realized I had all the guidance I needed to get started. 
