@@ -121,7 +121,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/hariharan3103'
         styles:
           self:
             textAlign: left
