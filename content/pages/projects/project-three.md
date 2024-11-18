@@ -5,9 +5,9 @@ colors: colors-a
 date: '2024-11-19'
 client: Own Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  It’s hard to imagine that I wrote all this code by myself. Thanks to Thu vu
+  Analytics, I did it on my own. Happy to share that it is my very first
+  Project.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
