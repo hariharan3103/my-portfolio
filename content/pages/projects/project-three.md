@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Analyzing YouTube data using Python and '
+title: Analyzing YouTube data using Python and  API.
 colors: colors-a
 date: '2024-11-19'
 client: Own Project
