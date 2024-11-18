@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-07-15'
 client: Own Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  After Lots of interactions with the internship trainer, We selected and did a
+  project which is most hard at that time.
 featuredImage:
   type: ImageBlock
   url: /images/IoT-marketing-1920x1086.webp
