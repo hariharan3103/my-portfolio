@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 'Analyzing YouTube data using Python and '
 colors: colors-a
 date: '2024-11-19'
 client: Own Project
