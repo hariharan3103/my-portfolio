@@ -256,10 +256,18 @@ sections:
       - type: FeaturedItem
         title: Courses Done
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Microsoft Office 365 Specialist – Naan Mudhalvan  
+          Beginner & Advanced Level 
+
+           
+          Python – Progate  
+          Beginner & Intermediate Level  
+
+
+          Big Data Computing – NPTEL  
+          Elite(93%) 
+
         elementId: ''
         styles:
           self:
