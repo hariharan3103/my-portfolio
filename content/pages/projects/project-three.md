@@ -6,7 +6,7 @@ date: '2024-11-19'
 client: Own Project
 description: >-
   It’s hard to imagine that I wrote all this code by myself. Thanks to Thu vu
-  Analytics, I did it on my own. Happy to share that it is my very first
+  Analytics, I did it on my own. Happy to share that it is my very first DATA
   Project.
 featuredImage:
   type: ImageBlock
