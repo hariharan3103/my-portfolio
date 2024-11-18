@@ -139,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/hariharan_durairaju'
         styles:
           self:
             textAlign: left
