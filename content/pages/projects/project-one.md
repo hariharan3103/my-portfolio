@@ -22,15 +22,6 @@ With tools like **Blynk IoT software**, **Arduino Uno**, **ESP 32**, and **ultra
 
 This project wasn’t just about building robots; it was about discovering the endless possibilities of technology and taking another step toward my dream.
 
-
-
 ![](/images/IMG-20240721-WA0008.jpg)
 
-
-
-![](https://preview--randumb-blogger-9b773.stackbit.dev/_static/app-assets/public/images/WhatsApp%20Image%202024-11-18%20at%2022.39.46_3cbbdce6.jpg)
-
-
-
-
-
+![](https://preview--randumb-blogger-9b773.stackbit.dev/_static/app-assets/public/images/WhatsApp%20Image%202024-11-18%20at%2022.39.46_3cbbdce6.jpg)![](/images/WhatsApp%20Image%202024-11-18%20at%2022.39.44_bd989ae9.jpg)
