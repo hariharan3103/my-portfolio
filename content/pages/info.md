@@ -204,8 +204,11 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      <hariharandurairaju@gmail.com>
+    text: >+
+      Mobile -
+      +919342629549                                                                                                                                                                                                    
+      Email  -  <hariharandurairaju@gmail.com>
+
   - type: DividerSection
     styles:
       self:
