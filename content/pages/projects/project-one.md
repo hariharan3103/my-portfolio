@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Creating Obstacle Avoidance Robots and IoT-based Surveillance Robot
 colors: colors-a
-date: '2024-11-18'
+date: '2024-07-18'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
