@@ -27,16 +27,16 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": " https://www.linkedin.com/in/hariharan3103",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/hariharan3103",
                 "icon": "github"
             }
         ],
@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:hariharandurairaju@gmail.com",
                 "altText": ""
             },
             {
@@ -70,7 +70,7 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/hariharan3103",
                 "altText": "Netlify templates"
             }
         ],
