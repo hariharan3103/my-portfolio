@@ -7,7 +7,7 @@ client: own project
 description: >-
   gathered reddit data using reddit api and praw library. and done some
   sentiment analysis and eda. finally created a ask me anything chatbot with
-  google gemini api
+  google gemini api.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
