@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Creating a reddit chatbot
+title: Creating a reddit chatbot using reddit data and Google api
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
