@@ -5,9 +5,9 @@ colors: colors-a
 date: '2025-03-29'
 client: own project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  gathered reddit data using reddit api and praw library. and done some
+  sentiment analysis and eda. finally created a ask me anything chatbot with
+  google gemini api
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
