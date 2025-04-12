@@ -8,12 +8,6 @@ description: >-
   gathered reddit data using reddit api and praw library. and done some
   sentiment analysis and eda. finally created a ask me anything chatbot with
   google gemini api.
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 media:
   type: ImageBlock
   url: /images/bg2.jpg
