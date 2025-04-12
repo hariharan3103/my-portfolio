@@ -10,7 +10,7 @@ description: >-
   google gemini api
 featuredImage:
   type: ImageBlock
-  url: /images/artificial-intelligenceai-chat-bot-concept-scaled.jpg
+  url: /images/bg1.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
