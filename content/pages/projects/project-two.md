@@ -32,3 +32,7 @@ Then I moved on to **sentiment and emotion analysis** using predefined models. F
 The final part was building the chatbot. Initially, I tried using the ChatGPT API, but it didn’t work as the free credits had expired. That’s when I started researching alternatives. I explored **local models** and finally settled on using the **Google Gemini Flash API**. After updating the codebase and switching from OpenAI to Google’s API, I managed to get the chatbot running successfully. It took a bit longer because I wasn’t chunking the data and was using a free-tier API — but I made it work.
 
 I wrapped everything up by generating a report directly within Datalore. Through this project, I learned a ton about working with APIs, NLP techniques like word clouds and sentiment analysis, and the practical use of **LlamaIndex** and **LLMs**, both online and locally.
+
+Here is the link for the[ jupyter notebook](https://github.com/hariharan3103/Reddit-EDA-and-Chatbot) that i coded. (Please change the api with your api, if you are using it)
+
+And direct link for the [Datalore report](https://datalore.jetbrains.com/report/static/GNioAFYu8e593vRQh3dQmz/NhBDkDofLP6PZrLkdmx5kE) that i created. (Sorry i can't put it in the intereactive mode)
