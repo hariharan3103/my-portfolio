@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Creating a reddit chatbot using reddit data and Google api
 colors: colors-a
-date: '2025-03-20'
+date: '2025-03-29'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
