@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Creating a Sales Dashboard using Excel
 date: '2025-01-13'
-client: Awesome client
+client: Own project
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
