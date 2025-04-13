@@ -4,8 +4,8 @@ title: Creating a Sales Dashboard using Excel
 date: '2025-01-13'
 client: Own project
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  It is my first dashboard in my data journey. I know excel is not the best for
+  dashboard crea
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
